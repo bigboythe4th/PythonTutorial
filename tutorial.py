@@ -1,5 +1,6 @@
 print("hello world")
 
+
 # add second message 
 print("hello amelia")
 
@@ -8,3 +9,4 @@ name = input("enter your name: ")
 
 #output welcome message 
 Print("welcome" + name)
+
